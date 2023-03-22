@@ -1,6 +1,10 @@
-#header-menu{
+#header-menu,a{
 list-style: none;
+text-decoration: none;
+display: flex;
+flex-direction: row; 
 }
-.header-a-menu{
-
+.header{
+max-width: 1200px;
+margin: 0 auto;
 }
